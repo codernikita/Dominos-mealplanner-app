@@ -1,9 +1,16 @@
-Overview:
-Domino's Meal Planner is a Kotlin-based Android app that helps users find meal combinations from Domino’s menu while staying within a specified budget. Whether you're craving pizza, sides, or beverages, this app provides optimized meal selections that maximize your budget.
-Features:
->Input budget and get meal suggestions.
->Smart meal combinations based on price.
->Option to customize meal preferences.
-Tech Stack:
-Language: Kotlin
-IDE: Android Studio
+#  Domino's Meal Planner  
+*A smart meal planning app that suggests the best meal combinations within your budget!*  
+
+## Features  
+-  Budget-based meal selection  
+- Smart meal combinations  
+-  Real-time pricing updates  
+
+## Usage  
+1. Enter your **budget**  
+2. Get **optimized meal suggestions**  
+3. Confirm and **enjoy your meal!**
+
+## Tech Stack:
+- Language: Kotlin
+- IDE: Android Studio
